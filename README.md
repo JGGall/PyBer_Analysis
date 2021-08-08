@@ -2,7 +2,7 @@
 *Analyzing ride share data*
 
 ## 1. Overview of Analysis
-I have been asked to arrange the PyBer ride share data from a region that includes rural, suburban, and urban areas into a summary DataFrame that allows for an at-a-glance understanding of how rides and fares differ among the three types of areas (that is, "city types"). I have also been asked to creat a three-line graph to illustrate total weekly fares for each city type during a particular range of dates, and to give some recommendations.
+I have been asked to arrange the PyBer ride share data from a region that includes rural, suburban, and urban areas into a summary DataFrame that allows for an at-a-glance understanding of how rides and fares differ among the three types of areas (that is, "city types"). I have also been asked to create a three-line graph to illustrate total weekly fares for each city type during a particular range of dates, and to give some recommendations.
 
 ## 2. Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.

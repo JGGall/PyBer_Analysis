@@ -8,8 +8,8 @@ I have been asked to arrange the PyBer ride share data from a region that includ
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 There are stark differences among the three city types when it comes to how many rides were taken, how many drivers are available, and in the total amount of fares that were collected. Far more drivers are available in urban areas than in rural, and far more rides were taken.
-![PyBer_deliv_1_Summary_DataFrame.png]need-url
-![Fig8.png]need-url
+### ![PyBer_deliv_1_Summary_DataFrame.png]need-url
+### ![Fig8.png]need-url
 
 ## 3. Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.

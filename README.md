@@ -8,7 +8,7 @@ I have been asked to arrange the PyBer ride share data from a region that includ
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 There are stark differences among the three city types when it comes to how many rides were taken, how many drivers are available, and in the total amount of fares that were collected. Far more drivers are available in urban areas than in rural, and far more rides were taken in urban areas. But a look at the summary DataFrame ...
-### ![PyBer_deliv_1_Summary_DataFrame.png]need-url
+![PyBer_deliv_1_Summary_DataFrame.png](https://github.com/JGGall/PyBer_Analysis/blob/main/Resources/PyBer_deliv_1_Summary_DataFrame.png)
 
 ... reveals that in rural areas the average ride had a fare that was 41% higher than the average fare in urban areas. In suburban areas, the average fare was 26% higher than in urban areas. Rural areas had only 3% of the drivers of urban areas, but the average rural fare was 335% of the average urban fare--in other words, the average rural fare was more than triple the dollar amount of the average urban fare.
 

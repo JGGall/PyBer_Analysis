@@ -13,7 +13,7 @@ There are stark differences among the three city types when it comes to how many
 ... reveals that in rural areas the average ride had a fare that was 41% higher than the average fare in urban areas. In suburban areas, the average fare was 26% higher than in urban areas. Rural areas had only 3% of the drivers of urban areas, but the average rural fare was 335% of the average urban fare--in other words, the average rural fare was more than triple the dollar amount of the average urban fare.
 
 I was also asked to create a three-line chart in "fivethirtyeight" style that plots the sum of the fares per week for a five-month period in each city type: rural, suburban, and urban.
-![Fig8.png]https://github.com/JGGall/PyBer_Analysis/blob/main/analysis/Fig8.png
+![Fig8.png](https://github.com/JGGall/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 This chart clearly shows the much higher fare revenue of urban areas when compared to suburban areas (which lie in the middle) and rural areas (with the lowest weekly revenue). The three lines plot the rise and decline of weekly revenue over time. The three lines, while situated at different levels representing different fare revenue, are not wildly divergent: they rise and fall together, probably based on weather and holidays and special events that attract people from all three city types in the region.
 
